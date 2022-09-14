@@ -1,0 +1,4 @@
+name: mono_repo_abc
+
+packages:
+  - "packages/**"
