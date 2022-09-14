@@ -17,7 +17,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   lints_abc:
-    git: https://github.com/Yogi-6/flutter_mono_repo/tree/main/packages/lints_abc
+    git: https://github.com/Yogi-6/flutter_mono_repo/tree/main/packages/lints_abc.git
 
 flutter:
   uses-material-design: true
